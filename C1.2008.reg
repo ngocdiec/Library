@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\ComponentOne]
+
+[HKEY_CURRENT_USER\Software\ComponentOne\StudioInfo]
+"DeactivateAuthenticationNumber"="ZWFsZGVkZGBgZWBsY2ZjZGNlZmxkZ2Bt"
+"DeactivateSerialNumber"="BhBkZWwUFngFEXhnZmNsZGJ4ZWN4Yw0eEBAZZA=="
+"LicenseKey"="ZGBlbGdkYWZmZWxlZWRtYWVkbGxkYGRkZWVsbQ=="
+
+[HKEY_CLASSES_ROOT\Licenses\724E8A91-AF12-4a3b-9AEB-EF89612E692E]
+"1"=hex:ad,00,7b,01,96,01,6f,01,e3,00,52,01,03,01,49,00,ce,00,b4,00,56,00,7f,\
+  00,f8,00,06,01,bd,00,0c,01,c7,00,a8,00,5e,01,ee,00,9b,00,7a,00,90,00,e6,00
+
+[HKEY_CLASSES_ROOT\Licenses\724E8A92-AF12-4a3b-9AEB-EF89612E692E]
+"1"=hex:db,00,8c,01,87,01,23,01,34,00,a8,01,16,00,e5,00,69,00,5c,00,fa,00,e6,\
+  00,5e,00,51,00,34,01,03,01,7b,00,99,00,d6,00,fb,00,c6,00,1d,01,86,00,5d,01,\
+  ff,00,11,01,ce,00,af,00,17,01,fe,00,8a,00,3b,00,a4,00,42,00,cf,00,40,00,9b,\
+  00,09,01,65,00,77,00,bc,00
